@@ -1,1 +1,2 @@
 # Superstore-Project-
+The Superstore Dashboard project provides a comprehensive overview of business performance by analyzing sales and profit data using Microsoft Power BI. It allows users to explore the performance of different product categories and regions, compare results through interactive KPIs, and assess the potential impact of possible changes on financial performance. This helps identify key trends, recognize strengths and opportunities for improvement, and transform data into actionable insights that support planning and data-driven decision-making.
